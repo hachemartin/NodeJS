@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "First Nodejs Project",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node crear_servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hachemartin/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "hachemartin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hachemartin/NodeJS/issues"
+  },
+  "homepage": "https://github.com/hachemartin/NodeJS#readme"
+}
